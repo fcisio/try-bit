@@ -12,7 +12,7 @@ Run the following commands:
 
 2. `bvm install`
 
-3. `git clone git@github.com:teambit/getting-started-result.git try-bit`
+3. `git clone https://github.com/teambit/getting-started-result.git try-bit`
 
 4. `cd try-bit`
 
